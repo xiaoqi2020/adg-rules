@@ -3,7 +3,7 @@
 # ============ 配置区域 ============
 # GitHub Runner上不需要固定路径，我们直接用当前目录
 WORK_DIR=$(pwd)
-OUTPUT_FILE="${WORK_DIR}/proxy-list.conf"
+OUTPUT_FILE="${WORK_DIR}/proxy-list.txt"
 
 PROXY_DNS="https://cloudflare-dns.com/dns-query https://dns.google/dns-query"
 LIST_URL="https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/gfw.txt"
