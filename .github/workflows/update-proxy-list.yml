@@ -1,0 +1,40 @@
+name: 每日更新国外域名代理列表
+
+on:
+  schedule:
+    # 每天凌晨3点运行（UTC时间，对应北京时间上午11点）
+    - cron: '0 3 * * *'
+  workflow_dispatch:  # 允许手动触发
+
+permissions:
+  contents: write  # 允许推送到仓库
+
+jobs:
+  update-list:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 检出仓库代码
+        uses: actions/checkout@v3
+
+      - name: 运行生成脚本
+        run: |
+          chmod +x scripts/generate-proxy-list.sh
+          ./scripts/generate-proxy-list.sh
+
+      - name: 检查文件是否有变化
+        id: check_changes
+        run: |
+          if git diff --quiet proxy-list.conf; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: 提交更新文件
+        if: steps.check_changes.outputs.changed == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add proxy-list.conf
+          git commit -m "自动更新代理列表 - $(date +'%Y-%m-%d')"
+          git push
