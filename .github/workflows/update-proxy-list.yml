@@ -21,50 +21,12 @@ jobs:
           chmod +x scripts/generate-proxy-list.sh
           ./scripts/generate-proxy-list.sh
 
-      - name: 检查文件是否有变化
-        id: check_changes
-        run: |
-          if git diff --quiet proxy-list.conf; then
-            echo "changed=false" >> $GITHUB_OUTPUT
-          else
-            echo "changed=true" >> $GITHUB_OUTPUT
-          fi
-
-      - name: 提交更新文件到仓库
-        if: steps.check_changes.outputs.changed == 'true'
+      # ============ 直接提交到仓库根目录，获取固定链接 ============
+      - name: 提交更新文件到仓库（固定路径）
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add proxy-list.conf
-          git commit -m "自动更新代理列表 - $(date +'%Y-%m-%d')"
+          git add proxy-list.txt
+          # 只有当文件真正有变化时才提交，避免空提交
+          git diff --quiet && git diff --staged --quiet || git commit -m "自动更新代理列表 - $(date +'%Y-%m-%d')"
           git push
-
-      # ============ 新增：创建 Release 并上传文件 ============
-      - name: 获取当前日期作为版本号
-        id: date
-        run: echo "version=$(date +'%Y%m%d')" >> $GITHUB_OUTPUT
-
-      - name: 创建 Release
-        id: create_release
-        uses: actions/create-release@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          tag_name: v${{ steps.date.outputs.version }}
-          release_name: 代理规则更新 ${{ steps.date.outputs.version }}
-          body: |
-            自动生成的国外域名代理列表
-            - 更新时间：$(date +'%Y-%m-%d %H:%M:%S')
-            - 包含 DNS 泄漏测试域名
-          draft: false
-          prerelease: false
-
-      - name: 上传规则文件到 Release
-        uses: actions/upload-release-asset@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./proxy-list.conf
-          asset_name: proxy-list.conf
-          asset_content_type: text/plain
