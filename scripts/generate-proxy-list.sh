@@ -1,7 +1,6 @@
 #!/bin/bash
 
 # ============ 配置区域 ============
-# GitHub Runner上不需要固定路径，我们直接用当前目录
 WORK_DIR=$(pwd)
 OUTPUT_FILE="${WORK_DIR}/proxy-list.txt"
 
@@ -24,7 +23,6 @@ whatsmyip.net
 
 echo "开始下载国外域名列表..."
 
-# GitHub Runner需要先安装curl（通常已安装）
 curl -L -o gfw_raw.txt --connect-timeout 15 "$LIST_URL" 2>/dev/null
 
 if [ $? -ne 0 ] || [ ! -s gfw_raw.txt ]; then
@@ -52,7 +50,7 @@ sort -u "$TEMP_DOMAIN_LIST" -o "$TEMP_DOMAIN_LIST"
 
 > "$OUTPUT_FILE"
 echo "# 国外域名代理列表 - 自动生成（含 DNS 泄漏测试域名）" >> "$OUTPUT_FILE"
-echo "# BY 小麒"
+echo "# BY-小麒"
 echo "# 更新时间: $(date)" >> "$OUTPUT_FILE"
 echo "# 上游 DNS: $PROXY_DNS" >> "$OUTPUT_FILE"
 echo "" >> "$OUTPUT_FILE"
