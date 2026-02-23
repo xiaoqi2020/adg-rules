@@ -5,19 +5,16 @@ on:
     - cron: '0 3 * * *'
   workflow_dispatch:
 
-# 关键：在顶层显式声明所有权限
 permissions:
   contents: write
-  actions: write
-  checks: write
-  metadata: read
 
 jobs:
   update-list:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      
+      - name: 检出仓库代码
+        uses: actions/checkout@v3
+
       - name: 运行生成脚本
         run: |
           chmod +x scripts/generate-proxy-list.sh
@@ -30,16 +27,3 @@ jobs:
           git add proxy-list.txt
           git diff --quiet && git diff --staged --quiet || git commit -m "自动更新代理列表 - $(date +'%Y-%m-%d')"
           git push
-
-  keepalive-job:
-    name: Keepalive Workflow
-    runs-on: ubuntu-latest
-    permissions:
-      actions: write
-      contents: read
-    steps:
-      - uses: actions/checkout@v4
-      - uses: gautamkrishnar/keepalive-workflow@v2
-        with:
-          use_api: true
-          time_elapsed: 45
