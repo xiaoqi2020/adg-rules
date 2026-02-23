@@ -52,6 +52,7 @@ sort -u "$TEMP_DOMAIN_LIST" -o "$TEMP_DOMAIN_LIST"
 
 > "$OUTPUT_FILE"
 echo "# 国外域名代理列表 - 自动生成（含 DNS 泄漏测试域名）" >> "$OUTPUT_FILE"
+echo "# BY 小麒"
 echo "# 更新时间: $(date)" >> "$OUTPUT_FILE"
 echo "# 上游 DNS: $PROXY_DNS" >> "$OUTPUT_FILE"
 echo "" >> "$OUTPUT_FILE"
