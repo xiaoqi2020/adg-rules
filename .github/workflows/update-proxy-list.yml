@@ -2,21 +2,22 @@ name: 每日更新国外域名代理列表
 
 on:
   schedule:
-    - cron: '0 3 * * *'  # 每天凌晨3点（UTC）
-  workflow_dispatch:      # 允许手动触发
+    - cron: '0 3 * * *'
+  workflow_dispatch:
 
+# 关键：在顶层显式声明所有权限
 permissions:
   contents: write
-  actions: write          # keepalive 需要这个权限
+  actions: write
+  checks: write
+  metadata: read
 
 jobs:
-  # ============ 主任务：更新规则文件 ============
   update-list:
     runs-on: ubuntu-latest
     steps:
-      - name: 检出仓库代码
-        uses: actions/checkout@v3
-
+      - uses: actions/checkout@v3
+      
       - name: 运行生成脚本
         run: |
           chmod +x scripts/generate-proxy-list.sh
@@ -30,13 +31,12 @@ jobs:
           git diff --quiet && git diff --staged --quiet || git commit -m "自动更新代理列表 - $(date +'%Y-%m-%d')"
           git push
 
-  # ============ 保活任务：防止被暂停（新增！） ============
   keepalive-job:
     name: Keepalive Workflow
     runs-on: ubuntu-latest
     permissions:
-      actions: write      # 明确允许写入 Actions
-      contents: read       # 读取仓库内容
+      actions: write
+      contents: read
     steps:
       - uses: actions/checkout@v4
       - uses: gautamkrishnar/keepalive-workflow@v2
