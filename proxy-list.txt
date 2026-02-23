@@ -1,5 +1,5 @@
 # 国外域名代理列表 - 自动生成（含 DNS 泄漏测试域名）
-# 更新时间: Mon Feb 23 05:04:48 UTC 2026
+# 更新时间: Mon Feb 23 05:07:19 UTC 2026
 # 上游 DNS: https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 
 [/000webhost.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
