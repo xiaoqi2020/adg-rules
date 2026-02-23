@@ -30,7 +30,7 @@ jobs:
             echo "changed=true" >> $GITHUB_OUTPUT
           fi
 
-      - name: 提交更新文件
+      - name: 提交更新文件到仓库
         if: steps.check_changes.outputs.changed == 'true'
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
@@ -38,3 +38,33 @@ jobs:
           git add proxy-list.conf
           git commit -m "自动更新代理列表 - $(date +'%Y-%m-%d')"
           git push
+
+      # ============ 新增：创建 Release 并上传文件 ============
+      - name: 获取当前日期作为版本号
+        id: date
+        run: echo "version=$(date +'%Y%m%d')" >> $GITHUB_OUTPUT
+
+      - name: 创建 Release
+        id: create_release
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: v${{ steps.date.outputs.version }}
+          release_name: 代理规则更新 ${{ steps.date.outputs.version }}
+          body: |
+            自动生成的国外域名代理列表
+            - 更新时间：$(date +'%Y-%m-%d %H:%M:%S')
+            - 包含 DNS 泄漏测试域名
+          draft: false
+          prerelease: false
+
+      - name: 上传规则文件到 Release
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./proxy-list.conf
+          asset_name: proxy-list.conf
+          asset_content_type: text/plain
