@@ -1,6 +1,6 @@
 # 国外域名代理列表 - 自动生成（含 DNS 泄漏测试域名）
 # BY-小麒
-# 更新时间: Mon Mar  2 04:54:30 UTC 2026
+# 更新时间: Tue Mar  3 04:53:07 UTC 2026
 # 上游 DNS: https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 
 [/000webhost.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -762,6 +762,7 @@
 [/ck101.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/classicalguitarblog.net/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/claude.ai/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
+[/claude.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/cldr.unicode.org/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/clearsurance.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/clementine-player.org/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -2272,6 +2273,7 @@
 [/mangafox.me/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/mangmang.run/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/manta.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
+[/manus.im/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/manyvoices.news/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/marc.info/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/martau.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -3991,7 +3993,6 @@
 [/www.hoyolab.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/www.hustlercash.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/www.idlcoyote.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
-[/www.imdb.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/www.kindleren.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/www.lorenzetti.com.br/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/www.m-sport.co.uk/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
