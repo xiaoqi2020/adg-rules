@@ -1,6 +1,6 @@
 # 国外域名代理列表 - 自动生成（含 DNS 泄漏测试域名）
 # BY-小麒
-# 更新时间: Wed Mar 18 05:03:38 UTC 2026
+# 更新时间: Thu Mar 19 05:00:49 UTC 2026
 # 上游 DNS: https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 
 [/000webhost.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -80,6 +80,7 @@
 [/a-normal-day.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/a248.e.akamai.net/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/aamacau.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
+[/aave.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/abc.net.au/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/abc.xyz/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/abebooks.co.uk/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
