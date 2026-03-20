@@ -1,6 +1,6 @@
 # 国外域名代理列表 - 自动生成（含 DNS 泄漏测试域名）
 # BY-小麒
-# 更新时间: Thu Mar 19 05:00:49 UTC 2026
+# 更新时间: Fri Mar 20 04:53:50 UTC 2026
 # 上游 DNS: https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 
 [/000webhost.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -2616,8 +2616,10 @@
 [/ohmyrss.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/ok.ru/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/okayfreedom.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
+[/okcoin.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/okex.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/okk.tw/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
+[/oklink.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/okpool.me/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/okx.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/old.honeynet.org/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
