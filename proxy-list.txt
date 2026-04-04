@@ -1,6 +1,6 @@
 # 国外域名代理列表 - 自动生成（含 DNS 泄漏测试域名）
 # BY-小麒
-# 更新时间: Fri Apr  3 05:11:56 UTC 2026
+# 更新时间: Sat Apr  4 04:58:06 UTC 2026
 # 上游 DNS: https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 
 [/000webhost.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -2671,6 +2671,7 @@
 [/orientaldaily.com.my/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/orn.jp/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/osfoora.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
+[/osmand.net/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/otcbtc.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/otto.de/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/ourdearamy.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
