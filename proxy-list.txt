@@ -1,6 +1,6 @@
 # 国外域名代理列表 - 自动生成（含 DNS 泄漏测试域名）
 # BY-小麒
-# 更新时间: Sun Apr  5 05:19:26 UTC 2026
+# 更新时间: Mon Apr  6 05:31:09 UTC 2026
 # 上游 DNS: https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 
 [/000webhost.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -241,6 +241,7 @@
 [/appspot.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/appsto.re/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/aptoide.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
+[/archive-it.org/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/archive.fo/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/archive.is/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/archive.li/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -983,6 +984,7 @@
 [/dmhy.org/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/dmm.co.jp/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/dns.cloudflare.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
+[/dns.sb/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/dns2go.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/dnscrypt.org/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/dnsleak.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -995,6 +997,7 @@
 [/dockerstatus.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/docs.new/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/documentingreality.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
+[/doh.sb/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/dolc.de/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/dolf.org.hk/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/dongtaiwang.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -1002,6 +1005,7 @@
 [/doom9.org/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/doosho.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/doourbest.org/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
+[/dot.sb/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/dotplane.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/dotsub.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/dotvpn.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
