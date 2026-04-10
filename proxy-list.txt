@@ -1,6 +1,6 @@
 # 国外域名代理列表 - 自动生成（含 DNS 泄漏测试域名）
 # BY-小麒
-# 更新时间: Thu Apr  9 05:19:13 UTC 2026
+# 更新时间: Fri Apr 10 05:30:40 UTC 2026
 # 上游 DNS: https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 
 [/000webhost.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -189,11 +189,9 @@
 [/angola.org/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/angularjs.org/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/aniscartujo.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
-[/annas-archive.in/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
-[/annas-archive.li/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
-[/annas-archive.org/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
-[/annas-archive.pm/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
-[/annas-archive.se/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
+[/annas-archive.gd/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
+[/annas-archive.gl/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
+[/annas-archive.pk/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/anobii.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/anonfiles.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/anonymouse.org/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -3361,7 +3359,6 @@
 [/tbssqh.org/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/teachparentstech.org/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/technews.tw/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
-[/techspot.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/techviz.net/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/teck.in/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/teco-hk.org/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -3375,7 +3372,6 @@
 [/telegram.org/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/telegram.space/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/telegramdownload.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
-[/telegraph.co.uk/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/telesco.pe/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/tellapart.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/temu.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
