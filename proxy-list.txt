@@ -1,6 +1,6 @@
 # 国外域名代理列表 - 自动生成（含 DNS 泄漏测试域名）
 # BY-小麒
-# 更新时间: Sat Apr 11 05:01:39 UTC 2026
+# 更新时间: Sun Apr 12 05:29:24 UTC 2026
 # 上游 DNS: https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 
 [/000webhost.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -3055,6 +3055,7 @@
 [/savetibetstore.org/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/saveuighur.org/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/sbme.me/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
+[/sbti.unun.dev/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/scache.vzw.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/scache1.vzw.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/scache2.vzw.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
