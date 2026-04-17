@@ -1,6 +1,6 @@
 # 国外域名代理列表 - 自动生成（含 DNS 泄漏测试域名）
 # BY-小麒
-# 更新时间: Thu Apr 16 05:35:37 UTC 2026
+# 更新时间: Fri Apr 17 05:33:41 UTC 2026
 # 上游 DNS: https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 
 [/000webhost.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -295,6 +295,7 @@
 [/avg.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/avgle.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/avidemux.org/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
+[/avistaz.to/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/avmo.pw/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/avmoo.pw/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/avoision.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
