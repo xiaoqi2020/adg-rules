@@ -1,6 +1,6 @@
 # 国外域名代理列表 - 自动生成（含 DNS 泄漏测试域名）
 # BY-小麒
-# 更新时间: Sun May  3 06:09:47 UTC 2026
+# 更新时间: Mon May  4 06:18:44 UTC 2026
 # 上游 DNS: https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 
 [/000webhost.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -3054,9 +3054,6 @@
 [/saveuighur.org/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/sbme.me/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/sbti.unun.dev/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
-[/scache.vzw.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
-[/scache1.vzw.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
-[/scache2.vzw.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/schema.org/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/scmp.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/scramble.io/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -3237,7 +3234,6 @@
 [/sproutcore.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/squirrelvpn.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/ss-link.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
-[/ss7.vzw.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/ssglobal.co/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/ssl.webpack.de/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/sspanel.net/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
