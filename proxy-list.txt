@@ -1,6 +1,6 @@
 # 国外域名代理列表 - 自动生成（含 DNS 泄漏测试域名）
 # BY-小麒
-# 更新时间: Sun May 10 06:16:19 UTC 2026
+# 更新时间: Mon May 11 06:45:51 UTC 2026
 # 上游 DNS: https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 
 [/000webhost.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -923,6 +923,7 @@
 [/darrenliuwei.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/dashlane.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/data-vocabulary.org/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
+[/data18.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/daum.net/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/david-kilgour.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/dawangidc.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -1036,6 +1037,7 @@
 [/dropboxusercontent.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/dscn.info/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/dstk.dk/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
+[/dt18.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/dtiblog.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/dtic.mil/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/dubox.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
