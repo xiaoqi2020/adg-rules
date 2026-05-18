@@ -1,6 +1,6 @@
 # 国外域名代理列表 - 自动生成（含 DNS 泄漏测试域名）
 # BY-小麒
-# 更新时间: Sun May 17 06:27:25 UTC 2026
+# 更新时间: Mon May 18 07:01:49 UTC 2026
 # 上游 DNS: https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 
 [/000webhost.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -3146,6 +3146,7 @@
 [/shwchurch.org/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/shwchurch3.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/sidelinesnews.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
+[/sider.ai/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/signal.org/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/silvergatebank.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/simbolostwitter.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -4210,6 +4211,7 @@
 [/zh.pokerstrategy.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/zh.wikiquote.org/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/zhangtianliang.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
+[/zhangzhehan.net/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/zhanlve.org/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/zhao.1984.city/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/zhengjian.org/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
