@@ -1,6 +1,6 @@
 # 国外域名代理列表 - 自动生成（含 DNS 泄漏测试域名）
 # BY-小麒
-# 更新时间: Wed May 20 06:53:25 UTC 2026
+# 更新时间: Thu May 21 06:58:01 UTC 2026
 # 上游 DNS: https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 
 [/000webhost.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -1159,6 +1159,7 @@
 [/f-droid.org/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/f2pool.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/f8.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
+[/f95zone.to/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/facebook.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/facebook.de/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/facebook.design/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -1346,6 +1347,7 @@
 [/fxnetworks.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/g-area.org/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/g-queen.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
+[/g.ai/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/g.co/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/g0v.social/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/g6hentai.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -2201,6 +2203,7 @@
 [/lematin.ch/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/lemonde.fr/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/lenwhite.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
+[/leonardo.ai/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/lesoir.be/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/letscorp.net/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/lexica.art/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -2965,6 +2968,7 @@
 [/raizoji.or.jp/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/rakuten.co.jp/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/ramcity.com.au/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
+[/raphael.app/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/rapidmoviez.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/rapidvpn.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/rarbgprx.org/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -3044,6 +3048,7 @@
 [/rti.tw/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/rtm.tnt-ea.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/rts.ch/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
+[/rule34.us/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/rule34.xxx/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/rule34video.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/rumble.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -3222,6 +3227,7 @@
 [/sos.org/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/sosad.fun/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/sosreader.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
+[/sotwe.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/soubory.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/soulcaliburhentai.net/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/soundcloud.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
