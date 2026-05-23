@@ -1,6 +1,6 @@
 # 国外域名代理列表 - 自动生成（含 DNS 泄漏测试域名）
 # BY-小麒
-# 更新时间: Fri May 22 06:54:02 UTC 2026
+# 更新时间: Sat May 23 06:16:19 UTC 2026
 # 上游 DNS: https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 
 [/000webhost.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -30,6 +30,7 @@
 [/2047.one/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/2049bbs.xyz/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/233abc.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
+[/24hbook.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/24hrs.ca/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/32red.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/36rain.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -2311,6 +2312,7 @@
 [/martsangkagyuofficial.org/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/marxist.net/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/marxists.org/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
+[/mas.to/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/mash.to/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/mastodon.cloud/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/mastodon.host/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -2518,6 +2520,7 @@
 [/ndi.org/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/nekoslovakia.net/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/neo-miracle.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
+[/neodb.social/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/neowin.net/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/nephobox.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/netalert.me/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
