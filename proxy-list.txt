@@ -1,6 +1,6 @@
 # 国外域名代理列表 - 自动生成（含 DNS 泄漏测试域名）
 # BY-小麒
-# 更新时间: Mon May 25 07:20:08 UTC 2026
+# 更新时间: Tue May 26 06:52:21 UTC 2026
 # 上游 DNS: https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 
 [/000webhost.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -2457,6 +2457,7 @@
 [/motherless.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/movements.org/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/moviefap.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
+[/mozilla.ai/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/mpettis.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/mpfinance.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/mpinews.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
