@@ -1,6 +1,6 @@
 # 国外域名代理列表 - 自动生成（含 DNS 泄漏测试域名）
 # BY-小麒
-# 更新时间: Fri May 29 06:59:27 UTC 2026
+# 更新时间: Sat May 30 06:27:58 UTC 2026
 # 上游 DNS: https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 
 [/000webhost.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -264,6 +264,7 @@
 [/artstation.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/arvanstorage.ir/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/arweave.org/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
+[/as.mr/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/asacp.org/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/asiaharvest.org/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/asianage.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -328,6 +329,7 @@
 [/bangdream.space/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/bangkokpost.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/bangumi.moe/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
+[/bangumi.tv/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/bangyoulater.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/bankmobilevibe.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/bannedbook.org/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -383,6 +385,7 @@
 [/betvictor.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/bfnn.org/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/bfsh.hk/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
+[/bgm.tv/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/bgme.me/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/bgvpn.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/biblesforamerica.org/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -701,6 +704,7 @@
 [/chenshan20042005.wordpress.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/cherrysave.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/chhongbi.org/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
+[/chii.in/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/china-mmm.net/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/china-review.com.ua/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/china-week.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -802,7 +806,6 @@
 [/cn.uptodown.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/cna.com.tw/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/cnbbnews.wordpress.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
-[/cnbc.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/cnbeta.com.tw/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/cnd.org/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/cnnews.chosun.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -1381,6 +1384,7 @@
 [/geek-art.net/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/gekikame.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/gelbooru.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
+[/gencraft.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/generated.photos/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/genius.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/geph.io/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -1795,6 +1799,7 @@
 [/hicairo.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/hiccears.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/hidden-advent.org/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
+[/hiddify.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/hide.me/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/hideipvpn.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/hideman.net/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -3210,7 +3215,6 @@
 [/socks-proxy.net/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/sockslist.net/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/socrec.org/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
-[/softether-download.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/softether.co.jp/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/softether.org/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/softfamous.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -3789,6 +3793,7 @@
 [/vatn.org/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/vcf-online.org/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/vcfbuilder.org/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
+[/veed.io/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/vegas.williamhill.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/vegasred.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/venetianmacao.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -4159,7 +4164,6 @@
 [/yfsp.tv/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/yhcw.net/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/yibaochina.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
-[/yidio.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/yigeni.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/yipub.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/yizhihongxing.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
