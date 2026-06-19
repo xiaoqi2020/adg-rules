@@ -1,6 +1,6 @@
 # 国外域名代理列表 - 自动生成（含 DNS 泄漏测试域名）
 # BY-小麒
-# 更新时间: Thu Jun 18 08:14:01 UTC 2026
+# 更新时间: Fri Jun 19 08:37:01 UTC 2026
 # 上游 DNS: https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 
 [/000webhost.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -92,6 +92,7 @@
 [/about.me/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/abplive.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/acast.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
+[/accountboy.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/accountkit.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/acevpn.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/acg.mn/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -2452,6 +2453,7 @@
 [/monocloud.me/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/monster.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/moodyz.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
+[/moomoo.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/moon.fm/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/moonbbs.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/moonbingo.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -4120,6 +4122,7 @@
 [/xn--oiq.cc/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/xn--p8j9a0d9c9a.xn--q9jyb4c/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/xn--u2u927b.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
+[/xn--vuqv2cf7wzyig79c.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/xnpool.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/xnxx.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/xpud.org/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
