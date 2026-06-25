@@ -1,6 +1,6 @@
 # 国外域名代理列表 - 自动生成（含 DNS 泄漏测试域名）
 # BY-小麒
-# 更新时间: Wed Jun 24 06:53:43 UTC 2026
+# 更新时间: Thu Jun 25 06:53:06 UTC 2026
 # 上游 DNS: https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 
 [/000webhost.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -1430,6 +1430,7 @@
 [/genius.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/geph.io/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/get.app/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
+[/get.dappcdn.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/get.dev/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/get.how/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/get.page/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
