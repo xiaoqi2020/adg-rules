@@ -1,6 +1,6 @@
 # 国外域名代理列表 - 自动生成（含 DNS 泄漏测试域名）
 # BY-小麒
-# 更新时间: Mon Jun 29 08:20:53 UTC 2026
+# 更新时间: Tue Jun 30 06:59:49 UTC 2026
 # 上游 DNS: https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 
 [/000webhost.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -1170,6 +1170,7 @@
 [/expecthim.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/expekt.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/exploader.net/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
+[/expressnews.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/expressvpn.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/exrates.me/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/extmatrix.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
