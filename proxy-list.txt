@@ -1,6 +1,6 @@
 # 国外域名代理列表 - 自动生成（含 DNS 泄漏测试域名）
 # BY-小麒
-# 更新时间: Mon Jul 20 06:22:36 UTC 2026
+# 更新时间: Tue Jul 21 05:56:16 UTC 2026
 # 上游 DNS: https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 
 [/000webhost.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -788,6 +788,7 @@
 [/civitai.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/cixiaoya.club/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/ck101.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
+[/clashyun.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/classicalguitarblog.net/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/claude.ai/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/claude.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -3447,6 +3448,7 @@
 [/syncback.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/synergyse.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/syosetu.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
+[/sysub.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/t-g.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/t.co/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/t.me/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
