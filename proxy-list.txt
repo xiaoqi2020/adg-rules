@@ -1,6 +1,6 @@
 # 国外域名代理列表 - 自动生成（含 DNS 泄漏测试域名）
 # BY-小麒
-# 更新时间: Wed Jul 22 05:55:23 UTC 2026
+# 更新时间: Thu Jul 23 06:06:22 UTC 2026
 # 上游 DNS: https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 
 [/000webhost.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -3663,6 +3663,7 @@
 [/togetter.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/token.im/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/tokenlon.im/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
+[/tokenplus.app/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/tokyo-porn-tube.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/tokyocn.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/tomp3.cc/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
