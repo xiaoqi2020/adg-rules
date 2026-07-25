@@ -1,6 +1,6 @@
 # 国外域名代理列表 - 自动生成（含 DNS 泄漏测试域名）
 # BY-小麒
-# 更新时间: Fri Jul 24 05:54:24 UTC 2026
+# 更新时间: Sat Jul 25 05:47:28 UTC 2026
 # 上游 DNS: https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 
 [/000webhost.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -776,6 +776,7 @@
 [/cia.gov/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/cici.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/ciciai.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
+[/circle19.org/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/cirosantilli.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/citizencn.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/citizenlab.ca/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -2184,6 +2185,7 @@
 [/kantie.org/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/kaotic.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/karayou.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
+[/kards.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/kathmandupost.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/kawaiikawaii.jp/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/kawase.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
