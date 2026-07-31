@@ -1,6 +1,6 @@
 # 国外域名代理列表 - 自动生成（含 DNS 泄漏测试域名）
 # BY-小麒
-# 更新时间: Thu Jul 30 05:49:24 UTC 2026
+# 更新时间: Fri Jul 31 06:18:40 UTC 2026
 # 上游 DNS: https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 
 [/000webhost.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -2270,6 +2270,7 @@
 [/leonardo.ai/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/lesoir.be/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/letscorp.net/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
+[/level-plus.net/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/lexica.art/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/lhakar.org/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/li.taipei/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -3889,6 +3890,7 @@
 [/uyghurtribunal.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/uygur.fc2web.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/uymaarip.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
+[/v.recipes/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/v2.help/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/v2.hysteria.network/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/v2ex.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
