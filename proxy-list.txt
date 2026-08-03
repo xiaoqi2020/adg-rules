@@ -1,6 +1,6 @@
 # 国外域名代理列表 - 自动生成（含 DNS 泄漏测试域名）
 # BY-小麒
-# 更新时间: Sun Aug  2 06:08:14 UTC 2026
+# 更新时间: Mon Aug  3 06:30:04 UTC 2026
 # 上游 DNS: https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 
 [/000webhost.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -692,6 +692,7 @@
 [/centerforhumanreprod.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/centralnation.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/centurys.net/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
+[/cerebras.ai/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/certificate-transparency.org/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/certificate.revocationcheck.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/cfr.org/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -772,6 +773,7 @@
 [/chromecast.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/chromeexperiments.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/chromestatus.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
+[/cht.com.tw/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/ci-en.jp/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/cia.gov/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/cici.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -2534,7 +2536,6 @@
 [/motherless.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/movements.org/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/moviefap.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
-[/mozilla.ai/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/mpettis.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/mpfinance.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/mpinews.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -3004,7 +3005,6 @@
 [/pullfolio.co/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/pure18.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/pureconcepts.net/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
-[/puredns.org/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/pureinsight.org/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/purepdf.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/purevpn.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -3049,7 +3049,6 @@
 [/radio.garden/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/radioaustralia.net.au/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/radiohilight.net/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
-[/radiojar.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/radioline.co/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/radiovaticana.org/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/radiovncr.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -3162,7 +3161,6 @@
 [/safechat.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/safeguarddefenders.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/safervpn.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
-[/sagernet.org/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/saintyculture.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/sakuralive.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/salvation.org.hk/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -4159,7 +4157,6 @@
 [/www.antd.org/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/www.aolnews.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/www.bing.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
-[/www.clashverge.dev/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/www.cmoinc.org/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/www.dmm.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/www.eastturkistan.net/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
