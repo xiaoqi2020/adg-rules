@@ -1,6 +1,6 @@
 # 国外域名代理列表 - 自动生成（含 DNS 泄漏测试域名）
 # BY-小麒
-# 更新时间: Sun Aug  9 04:22:53 UTC 2026
+# 更新时间: Mon Aug 10 04:45:00 UTC 2026
 # 上游 DNS: https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 
 [/000webhost.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -133,6 +133,7 @@
 [/agro.hk/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/ai.dev/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/ai.studio/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
+[/aihub.top/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/aiosearch.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/aiph.net/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/airconsole.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -347,6 +348,7 @@
 [/barnabu.co.uk/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/bartender.dowjones.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/barton.de/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
+[/basemaps.arcgis.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/bastillepost.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/bayvoice.net/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/bb-chat.tv/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -1151,6 +1153,7 @@
 [/eromangadouzin.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/eromon.net/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/esg.t91y.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
+[/esim.redteago.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/eslite.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/esurance.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/etherdelta.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -1173,6 +1176,7 @@
 [/expatshield.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/expecthim.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/expekt.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
+[/experience.arcgis.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/exploader.net/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/expressnews.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/expressvpn.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
