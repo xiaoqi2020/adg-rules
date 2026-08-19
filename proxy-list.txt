@@ -1,6 +1,6 @@
 # 国外域名代理列表 - 自动生成（含 DNS 泄漏测试域名）
 # BY-小麒
-# 更新时间: Tue Aug 18 03:50:05 UTC 2026
+# 更新时间: Wed Aug 19 03:51:18 UTC 2026
 # 上游 DNS: https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 
 [/000webhost.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -3159,6 +3159,7 @@
 [/s-cute.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/s.yimg.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/s3-ap-northeast-1.amazonaws.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
+[/s3.dualstack.us-west-2.amazonaws.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/sacks.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/sacom.hk/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/sadistic-v.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -4107,6 +4108,7 @@
 [/willw.net/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/wilsoncenter.org/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/windscribe.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
+[/windy.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/wingamestore.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/wingy.site/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/wionews.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
