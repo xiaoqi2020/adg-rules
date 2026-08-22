@@ -1,6 +1,6 @@
 # 国外域名代理列表 - 自动生成（含 DNS 泄漏测试域名）
 # BY-小麒
-# 更新时间: Fri Aug 21 03:54:28 UTC 2026
+# 更新时间: Sat Aug 22 03:47:40 UTC 2026
 # 上游 DNS: https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 
 [/000webhost.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -567,6 +567,7 @@
 [/breakgfw.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/breakingtweets.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/breakwall.net/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
+[/briarproject.org/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/brill.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/brizzly.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/broadpressinc.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -709,6 +710,7 @@
 [/chat.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/chat.lmsys.org/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/chatgpt.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
+[/chatgpt.site/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/chatpdf.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/chaturbate.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/checkgfw.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
