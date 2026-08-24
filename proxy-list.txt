@@ -1,6 +1,6 @@
 # 国外域名代理列表 - 自动生成（含 DNS 泄漏测试域名）
 # BY-小麒
-# 更新时间: Sun Aug 23 03:55:00 UTC 2026
+# 更新时间: Mon Aug 24 03:59:03 UTC 2026
 # 上游 DNS: https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 
 [/000webhost.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -228,6 +228,7 @@
 [/api.palworldgame.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/api.pureapk.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/api.recaptcha.net/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
+[/api.shuaiapi.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/api.steampowered.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/api5.futunn.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/apiary.io/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -4206,6 +4207,7 @@
 [/x.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/x.company/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/x3guide.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
+[/x86.fr/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/xbabe.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/xbookcn.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/xbtce.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
