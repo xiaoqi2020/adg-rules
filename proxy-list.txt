@@ -1,6 +1,6 @@
 # 国外域名代理列表 - 自动生成（含 DNS 泄漏测试域名）
 # BY-小麒
-# 更新时间: Sun Aug 30 09:06:44 UTC 2026
+# 更新时间: Mon Aug 31 09:35:18 UTC 2026
 # 上游 DNS: https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 
 [/000webhost.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -1459,6 +1459,7 @@
 [/getlantern.org/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/getmalus.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/getmdl.io/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
+[/getmonero.org/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/getoutline.org/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/getsession.org/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/getsync.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -2661,6 +2662,7 @@
 [/nhentai.net/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/nic.cz.cc/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/nic.gov/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
+[/nicoseiga.jp/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/nicovideo.jp/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/nightswatch.top/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/nikke-en.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
