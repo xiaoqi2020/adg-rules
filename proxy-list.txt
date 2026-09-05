@@ -1,6 +1,6 @@
 # 国外域名代理列表 - 自动生成（含 DNS 泄漏测试域名）
 # BY-小麒
-# 更新时间: Fri Sep  4 07:53:13 UTC 2026
+# 更新时间: Sat Sep  5 07:34:09 UTC 2026
 # 上游 DNS: https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 
 [/000webhost.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -905,6 +905,7 @@
 [/csuchen.de/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/csw.org.uk/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/ct.org.tw/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
+[/ctee.com.tw/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/ctinets.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/ctinews.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/ctinsider.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -1891,6 +1892,7 @@
 [/hkcoc.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/hkcoc.weather.com.hk/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/hkdc.us/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
+[/hkej.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/hket.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/hkfaa.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/hkgalden.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -2317,6 +2319,7 @@
 [/linktr.ee/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/linux.do/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/linux.org.hk/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
+[/linux.sb/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/liquiditytp.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/liquidvpn.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/listennotes.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
