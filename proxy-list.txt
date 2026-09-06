@@ -1,6 +1,6 @@
 # 国外域名代理列表 - 自动生成（含 DNS 泄漏测试域名）
 # BY-小麒
-# 更新时间: Sat Sep  5 07:34:09 UTC 2026
+# 更新时间: Sun Sep  6 07:48:15 UTC 2026
 # 上游 DNS: https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 
 [/000webhost.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -9,6 +9,8 @@
 [/1000giri.net/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/10beasts.net/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/10musume.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
+[/123av.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
+[/123av.me/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/12bet.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/12vpn.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/12vpn.net/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -1850,6 +1852,7 @@
 [/helpeachpeople.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/helpster.de/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/hembed.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
+[/hentai.tv/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/heqinglian.net/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/heritage.org/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/herokuapp.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -3137,6 +3140,7 @@
 [/rmbl.ws/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/roblox.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/robustnessiskey.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
+[/roc-taiwan.org/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/rocket-inc.net/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/rocket.chat/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/rocksdb.org/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -3146,6 +3150,7 @@
 [/rolsociety.org/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/ronjoneswriter.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/rou.video/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
+[/roushuwo.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/rsdlmonitor.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/rsf-chinese.org/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/rsf.org/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -3448,6 +3453,7 @@
 [/superpages.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/supervpn.net/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/superzooi.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
+[/supjav.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/support.futunn.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/supremecourt.gov/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/suprememastertv.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -3478,10 +3484,12 @@
 [/taaze.tw/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/taedp.org.tw/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/tagwalk.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
+[/taiav.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/tails.net/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/taipeisociety.org/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/taipeitimes.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/taisounds.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
+[/taiwanembassy.org/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/taiwanhot.net/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/taiwanjustice.net/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/taiwanncf.org.tw/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -4168,6 +4176,7 @@
 [/writesonic.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/wsj.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/wsj.net/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
+[/wtfpass.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/wufafangwen.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/wufi.org.tw/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/wujieliulan.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
