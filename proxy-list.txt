@@ -1,6 +1,6 @@
 # 国外域名代理列表 - 自动生成（含 DNS 泄漏测试域名）
 # BY-小麒
-# 更新时间: Mon Sep 21 08:48:02 UTC 2026
+# 更新时间: Tue Sep 22 08:25:32 UTC 2026
 # 上游 DNS: https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 
 [/000webhost.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -759,6 +759,7 @@
 [/chinesegay.org/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/chinesen.de/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/chinesenews.net.au/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
+[/chineseposters.net/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/chineseradioseattle.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/chineseupress.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/chingcheong.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -2687,6 +2688,7 @@
 [/nordstromrack.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/nordvpn.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/nos.nl/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
+[/note.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/notepad-plus-plus.org/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/nottinghampost.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/now.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
