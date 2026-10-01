@@ -1,6 +1,6 @@
 # 国外域名代理列表 - 自动生成（含 DNS 泄漏测试域名）
 # BY-小麒
-# 更新时间: Wed Sep 30 09:32:46 UTC 2026
+# 更新时间: Thu Oct  1 09:59:20 UTC 2026
 # 上游 DNS: https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 
 [/000webhost.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -1402,6 +1402,7 @@
 [/futustatic.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/fututrade.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/fututrustee.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
+[/fuyin116.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/fw.cm/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/fxcm-chinese.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/fxnetworks.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -2560,6 +2561,7 @@
 [/mubi.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/mullvad.net/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/multiply.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
+[/muse.ai/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/music.amazon.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/musixmatch.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/muzi.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
