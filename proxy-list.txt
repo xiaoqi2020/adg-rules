@@ -1,6 +1,6 @@
 # 国外域名代理列表 - 自动生成（含 DNS 泄漏测试域名）
 # BY-小麒
-# 更新时间: Fri Oct 23 08:25:04 UTC 2026
+# 更新时间: Sat Oct 24 08:00:47 UTC 2026
 # 上游 DNS: https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 
 [/000webhost.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -864,6 +864,7 @@
 [/compileheart.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/connect.facebook.net/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/conoha.jp/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
+[/console.typesafe.ai/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/contests.twilio.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/cool18.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/coolaler.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -1421,6 +1422,7 @@
 [/g.co/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/g0v.social/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/g6hentai.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
+[/ga.jspm.io/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/gab.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/gabocorp.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/gagaoolala.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
