@@ -1,6 +1,6 @@
 # 国外域名代理列表 - 自动生成（含 DNS 泄漏测试域名）
 # BY-小麒
-# 更新时间: Fri Oct 30 09:50:12 UTC 2026
+# 更新时间: Sat Oct 31 09:28:58 UTC 2026
 # 上游 DNS: https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 
 [/000webhost.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -209,6 +209,7 @@
 [/anonfiles.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/anonymouse.org/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/anthonycalzadilla.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
+[/anthropic.auth0.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/anthropic.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/antiwave.net/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/antpool.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -578,6 +579,7 @@
 [/brookings.edu/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/brutaltgp.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/bsky.app/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
+[/bsky.chat/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/bsky.network/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/bsky.social/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/bt4g.org/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -803,7 +805,10 @@
 [/clashyun.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/classicalguitarblog.net/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/claude.ai/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
+[/claude.app/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/claude.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
+[/claudemcpcontent.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
+[/claudeusercontent.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/cldr.unicode.org/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/clearsurance.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/clementine-player.org/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
