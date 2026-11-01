@@ -1,6 +1,6 @@
 # 国外域名代理列表 - 自动生成（含 DNS 泄漏测试域名）
 # BY-小麒
-# 更新时间: Sat Oct 31 09:28:58 UTC 2026
+# 更新时间: Sun Nov  1 10:18:13 UTC 2026
 # 上游 DNS: https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 
 [/000webhost.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -233,6 +233,7 @@
 [/api.recaptcha.net/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/api.shuaiapi.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/api.steampowered.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
+[/api.themoviedb.org/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/apiary.io/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/apigee.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/apk.support/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -3751,6 +3752,7 @@
 [/torproject.org/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/torrentgalaxy.to/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/torrentkitty.tv/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
+[/torrentleech.org/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/torrentprivacy.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/torrentproject.se/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/torrenty.org/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -4382,6 +4384,7 @@
 [/youtubegaming.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/youtubekids.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/youversion.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
+[/youversionapi.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/youwin.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/youxu.info/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/yt.be/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
