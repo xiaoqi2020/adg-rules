@@ -1,6 +1,6 @@
 # 国外域名代理列表 - 自动生成（含 DNS 泄漏测试域名）
 # BY-小麒
-# 更新时间: Fri Nov 13 10:46:59 UTC 2026
+# 更新时间: Sat Nov 14 10:01:36 UTC 2026
 # 上游 DNS: https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 
 [/000webhost.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -51,6 +51,7 @@
 [/51.ca/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/51jav.org/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/51luoben.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
+[/51papaya.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/5278.cc/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/611study.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/611study.icu/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
