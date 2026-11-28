@@ -1,6 +1,6 @@
 # 国外域名代理列表 - 自动生成（含 DNS 泄漏测试域名）
 # BY-小麒
-# 更新时间: Fri Nov 27 11:58:03 UTC 2026
+# 更新时间: Sat Nov 28 11:34:17 UTC 2026
 # 上游 DNS: https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 
 [/000webhost.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -138,6 +138,7 @@
 [/agro.hk/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/ai.dev/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/ai.studio/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
+[/aicu.cc/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/aidc.com.tw/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/aihub.top/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/aiosearch.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -964,6 +965,7 @@
 [/daliulian.org/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/danbooru.donmai.us/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/danke4china.net/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
+[/danmakus.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/darmau.co/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/darpa.mil/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/darrenliuwei.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
@@ -3428,6 +3430,7 @@
 [/southnews.com.tw/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/southpark.cc.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/sowers.org.hk/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
+[/spacedesk.net/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/spaceforce.mil/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/spaces.hightail.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
 [/spacex.com/]https://cloudflare-dns.com/dns-query https://dns.google/dns-query
